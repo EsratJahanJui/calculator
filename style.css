@@ -45,8 +45,10 @@ form .display input{
 
 }
 form input.equal{
-    width:145px;
-}
+    /* width:145px; */
+    /* background-color:#33ffd8; */
+    }
+
 form input.operator{
     color:#33ffd8;
 }
